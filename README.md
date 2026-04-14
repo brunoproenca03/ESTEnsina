@@ -1,7 +1,7 @@
 # ESTEnsina
 
 ## Overview
-ESTEnsina is a Training Center Management System that provides an efficient way to manage courses, user enrollments, and overall administration of a training institute. It features implementations using **JavaServer Pages (JSP)** and **PHP**, allowing for a dynamic and comprehensive educational platform.
+ESTEnsina is a Training Center Management System that provides an efficient way to manage courses, user enrollments, and overall administration of a training institute. It features implementations using JSP and PHP, allowing for a dynamic and comprehensive educational platform.
 
 ## Features
 - **Course Management**: 
@@ -19,8 +19,8 @@ ESTEnsina is a Training Center Management System that provides an efficient way 
   - Supports full CRUD (Create, Read, Update, Delete) operations for courses and user data.
 
 ## Technical Stack
-- **Frontend**: JavaServer Pages (JSP) for dynamic content generation.
-- **Backend**: PHP for server-side logic and interaction with the database.
+- **Frontend**: HTML AND CSS.
+- **Backend**: PHP or JSP for server-side logic and interaction with the database.
 - **Database**: MySQL for storing user and course information.
 
 ## Installation
@@ -31,16 +31,12 @@ ESTEnsina is a Training Center Management System that provides an efficient way 
 2. Set up the MySQL database:
    - Create a database named 'estensina'.
    - Import the provided SQL file to set up initial tables.
-3. Configure the PHP environment to point to the MySQL database.
-4. Deploy the JSP files to your chosen servlet container.
+3. Configure the PHP environment or JSP environment to point to the MySQL database.
 
 ## Usage
-- Access the application via web browser at `http://localhost:your_port/ESTEnsina`.
+- Access the application via web browser at `http://localhost:your_port/`.
 - Sign up as a new user or login if you already have an account.
 - Navigate through the courses available for enrollment, and manage your personal profile.
-
-## Contributions
-Feel free to contribute by opening issues or pull requests.
 
 ## License
 This project is licensed under the MIT License.
